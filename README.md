@@ -1,2 +1,0 @@
-# frifaktura
-Norwegian Billing Software
